@@ -1,0 +1,22 @@
+{
+  "name": "Tami",
+  "version": "1.0.0",
+  "description": "Tami is a bot created for fun and entertainment.",
+  "main": "index.js",
+  "scripts": {
+      "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "discord"
+  ],
+  "author": "DrastDev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+    },
+  "engines": {
+    "node": "8.10.0"
+  }
+}
